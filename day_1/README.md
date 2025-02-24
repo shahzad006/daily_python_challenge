@@ -1,4 +1,4 @@
-#🐍 Day 1 - Python Challenge: Print Your First Message! <br> <hr>
+##🐍 Day 1 - Python Challenge: Print Your First Message! <br> <hr>
 
 📢 Challenge: <br>
 Apna pehla Python program likho jo screen par ye message print kare: <br>
