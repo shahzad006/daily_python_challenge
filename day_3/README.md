@@ -4,6 +4,6 @@
 <b>🔥 Example:</b> <br>
 📌 Input: 7 <br>
 📌 Output: Yes, it's a prime number! <br>
-📌 Input: 10 <hr>
+📌 Input: 10 <br>
 📌 Output: No, it's not a prime number! <br>
 
